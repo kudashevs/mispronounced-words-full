@@ -1,4 +1,4 @@
-# Mispronounced programming/development/tech/IT words
+# My personal collection of mispronounced words
 
 This is my personal collection of mispronounced words related to programming, development, tech, and IT. 
 
