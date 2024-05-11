@@ -114,7 +114,7 @@ a certain word in YouTube videos. Besides YouGlish, there are links to various d
 
 ## The list of words
 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) Y [Z](#Z)
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
 | Word&nbsp; | Transcription | &nbsp;&nbsp;&nbsp;Video&nbsp;/&nbsp;Audio&nbsp;materials&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;Comment |
 | ---- | ------------- | -------------------------------------------------------------------------------------------------------- | ---------- |
@@ -560,6 +560,7 @@ a certain word in YouTube videos. Besides YouGlish, there are links to various d
 | wrong | us /rɑːŋ/<br>uk /rɒŋ/ | [:tv:YouGlish](https://youglish.com/pronounce/wrong/english?) &nbsp; [:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/wrong)<br>[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/wrong) &nbsp; [:blue_book:Longman](https://www.ldoceonline.com/dictionary/wrong) | - pay attention to the silent&nbsp;w<br>- refers to "wrong way" |
 | WYSIWYG | us /ˈwɪz.i.wɪɡ/<br>uk /ˈwɪz.i.wɪɡ/ | [:tv:YouGlish](https://youglish.com/pronounce/wysiwyg/english?) &nbsp; [:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/wysiwyg)<br>[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/wysiwyg) &nbsp; [:blue_book:Longman](https://www.ldoceonline.com/dictionary/wysiwyg) | - an acronym for "What You See Is What You Get" |
 | <a id="X"></a> Xerox | us /ˈzɪr.ɑːks/<br>uk /ˈzɪə.rɒks/ | [:tv:YouGlish](https://youglish.com/pronounce/xerox/english?) &nbsp; [:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/xerox)<br>[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/xerox) &nbsp; [:blue_book:Longman](https://www.ldoceonline.com/dictionary/xerox) | |
+| <a id="Y"></a> yield | us /jiːld/<br>uk /jiːld/ | [:tv:YouGlish](https://youglish.com/pronounce/yield%20%23computer/english?) &nbsp; [:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/yield)<br>[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/yield_1) &nbsp; [:blue_book:Longman](https://www.ldoceonline.com/dictionary/yield) | |
 | <a id="Z"></a> zero | us /ˈzɪr.oʊ/<br>uk /ˈzɪə.rəʊ/ | [:tv:YouGlish](https://youglish.com/pronounce/zero%3An/english?) &nbsp; [:blue_book:Cambridge](https://dictionary.cambridge.org/us/dictionary/english/zero)<br>[:blue_book:Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/zero_1) &nbsp; [:blue_book:Longman](https://www.ldoceonline.com/dictionary/zero) | - refers to "zero-based" |
 
 Let's communicate smoothly and effectively. Happy communication!
